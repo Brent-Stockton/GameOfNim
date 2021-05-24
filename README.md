@@ -1,2 +1,2 @@
 # GameOfNim
-Simple C++ game
+Simple C++ game for CSE 240
