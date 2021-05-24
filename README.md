@@ -1,1 +1,2 @@
 # GameOfNim
+Simple C++ game
